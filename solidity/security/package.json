@@ -1,0 +1,31 @@
+{
+    "name": "security",
+    "version": "0.0.1",
+    "description": "Security Examples",
+    "directories": {
+        "test": "test"
+    },
+    "files": [
+        "/contracts/**/*.sol",
+        "/build/contracts/*.json",
+        "/migrations",
+        "/test"
+    ],
+    "scripts": {
+        "compile": "truffle compile",
+        "console": "truffle console",
+        "migrate": "truffle migrate",
+        "ganache-cli": "ganache-cli --deterministic --networkId 5777 --host 127.0.0.1 --port 7545",
+        "migrate:ganache": "truffle migrate --network ganache",
+        "test": "truffle test",
+        "test:ganache": "truffle test --network ganache"
+    },
+    "author": "Leander Jehl",
+    "license": "MIT",
+    "dependencies": {
+        "@openzeppelin/test-helpers": "^0.5.7",
+        "ganache-cli": "^6.12.0",
+        "truffle": "^5.1.49"
+    },
+    "devDependencies": {}
+}
