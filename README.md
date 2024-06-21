@@ -6,6 +6,7 @@ You can find here:
 * [Lecture Script](script.pdf)
 * [Lecture Schedule](#lectures)
 * [Lab info](#lab)
+* [Invite to 2024 discord](https://discord.gg/M4Tsp7VsAf)
 
 ## Weekly timetable
 
