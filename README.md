@@ -25,7 +25,7 @@ You can find here:
 * Additional material is linked [here](resources.md).
 
 
-| Week | Lecture | Topic | Discussion |  |
+| Week | Lecture | Topic | Discussion |
 |-----|-----------|-------|----------|
 | 34 | Leander  | Intro and basic | Notebook |
 | 35 | Leander  | Proof of Work | Notebook |
