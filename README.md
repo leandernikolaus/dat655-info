@@ -21,7 +21,7 @@ You can find here:
 **Slides and lecture notes will be updated during the semester!**
 
 * Lecture notes can be found [here](script.pdf). 
-* Slides are [here](slides).
+* Slides and material is [here](slides).
 * Additional material is linked [here](resources.md).
 
 
