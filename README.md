@@ -30,7 +30,7 @@ You can find here:
 | 34 | Leander  | Intro and basic | Notebook |
 | 35 | Leander  | Proof of Work | Notebook |
 | 36 | Leander  | Accounts and UTXO | Notebook |
-| 37 | Leander  | Forks | Notebook |
+| 37 | Leander  | No lecture | Notebook |
 | 38 | Leander  | Applications |  |
 | 39 | Leander  | To PoS and Committees | Decentralization |
 | 40 | Leander  | Ethereum | Organization structure? |
