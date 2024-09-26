@@ -24,3 +24,6 @@ Updated slides will be published after lectures.
 
 ## Week 38 Application discussion
 - [Slides](./blockchain-application.pdf)
+
+## Week 39 Proof of stake
+- [Slides](./blockchain6pos.pdf)
