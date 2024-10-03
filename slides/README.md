@@ -27,3 +27,6 @@ Updated slides will be published after lectures.
 
 ## Week 39 Proof of stake
 - [Slides](./blockchain6pos.pdf)
+
+## Week 40 Solidity
+- [Slides](./blockchain-ethereum.pdf)
