@@ -32,10 +32,10 @@ You can find here:
 | 36 | Leander  | Accounts and UTXO | Notebook |
 | 37 | Leander  | No lecture | Notebook |
 | 38 | Leander  | Applications |  |
-| 39 | Leander  | To PoS and Committees | Decentralization |
-| 40 | Leander  | Ethereum | Organization structure? |
-| 41 | Leander  | SmartContracts (security) | Smart Contract applications |
-| 42 | Leander  | SmartContracts 2 | Learn a bit of solity |
+| 39 | Leander  | To PoS and Committees | Notebook |
+| 40 | Leander  | Ethereum | Decentralization |
+| 41 | Leander  | SmartContracts (security) | Learn a bit of solity |
+| 42 | Leander  | SmartContracts 2 | Decentralization |
 | 43 | Leander  | Layer 2 | Layer 2 applications |
 | 44 | Leander  | Privacy in Blockchain | Privacy pro and con |
 | 45 | Leander  | DePIN & DID | Token applications |
