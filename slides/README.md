@@ -36,3 +36,7 @@ Updated slides will be published after lectures.
   - Read: 
     - Buterin, 2017: ["The meaning of decentralization"](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
     - Chain, 2016: ["A Letter to Jamie Dimon"](https://www.ceresaig.com/wp-content/uploads/2017/11/A-Letter-to-JP-Morgan-Jamie-Dimon-%E2%80%93-Block-Chain-Crypto-FX.pdf)
+
+# Week 41 Smart contract security
+- [Slides](./blockchain-smartContractSecurity.pdf)
+- [Example contracts](../solidity/security/contracts)
