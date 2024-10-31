@@ -40,3 +40,7 @@ Updated slides will be published after lectures.
 # Week 41 Smart contract security
 - [Slides](./blockchain-smartContractSecurity.pdf)
 - [Example contracts](../solidity/security/contracts)
+- Additional resources: https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+
+# Week 44 Advanced smart contracts
+- [Slides](blockchain-layer2.pdf)
