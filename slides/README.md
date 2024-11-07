@@ -44,3 +44,6 @@ Updated slides will be published after lectures.
 
 # Week 44 Advanced smart contracts
 - [Slides](blockchain-layer2.pdf)
+
+# Week 45 Privacy
+- [Slides](blockchain-privacy.pdf)
