@@ -5,16 +5,16 @@ This repository contains useful information and common resources for the DAT655 
 You can find here:
 * [Lecture Script](script.pdf)
 * [Lecture Schedule](#lectures)
-* [Lab info](#lab)
-* [Invite to 2024 discord](https://discord.gg/M4Tsp7VsAf)
+* [Obligatory participation](#obligatory-participation)
+* [Exam info](#exam-info)
 
 ## Weekly timetable
 
 
 | Day | Time | | Room |
 |----|------|---|------|
-| Thursday | 12:15 - 14:00 | Lecture | KE E-456 |
-| Friday  | 12:15 - 14:00 | Lab/Discussion | KE E-456 |
+| Monday | 12:15 - 14:00 | Lecture | KE E-166 |
+| Wednesday  | 10:15 - 12:00 | Lab/Discussion | KE A-205 |
 
 ## Lectures
 
@@ -25,29 +25,35 @@ You can find here:
 * Additional material is linked [here](resources.md).
 
 
-| Week | Lecture | Topic | Discussion |
+| Week | Lecture | Topic | Lab/Discussion |
 |-----|-----------|-------|----------|
-| 34 | Leander  | Intro and basic | Notebook |
-| 35 | Leander  | Proof of Work | Notebook |
-| 36 | Leander  | Accounts and UTXO | Notebook |
-| 37 | Leander  | No lecture | Notebook |
-| 38 | Leander  | Applications |  |
-| 39 | Leander  | To PoS and Committees | Notebook |
-| 40 | Leander  | Ethereum | Decentralization |
-| 41 | Leander  | SmartContracts (security) | Learn a bit of solity |
-| 42 | Leander  | No lecture | Solidity and tokens |
-| 43 | Leander  | Layer 2 | Layer 2 applications |
-| 44 | Leander  | Privacy in Blockchain | Privacy pro and con |
-| 45 | Leander  | DePIN & DID | Token applications |
-| 46 | Leander  | TBA |  |
+| 34 | Leander  | Intro and basic | Lab (Notebook) |
+| 35 | Leander  | Proof of Work | Lab (Notebook) |
+| 36 | Leander  | Accounts and UTXO | Lab (Notebook) |
+| 37 | Leander  | TBA | Lab (Notebook) |
+| 38 | Leander  | Applications | Discussion (Applications) |
+| 39 | Leander  | To PoS and Committees | Lab (Notebook) |
+| 40 | Leander  | Ethereum | Discussion (Decentralization) |
+| 41 | Leander  | SmartContracts (security) | Solidity |
+| 42 | Leander  | TBA | Solidity and tokens |
+| 43 | Leander  | Layer 2 | Discussion (Layer 2 applications) |
+| 44 | Leander  | Privacy in Blockchain | Discussion (Privacy pro and con) |
+| 45 | Leander  | DePIN & DID | Discussion (Token applications) |
+| 46 | Leander  | Presentations | Presentations |
 
-## Lab
+## Obligatory participation
 
-There are no mandatory handins, but we will use the friday slot to do examples, small exercises and discussion. 
-There will be required readings for the discussions. 
+The wednesday timeslot is used for Lab or discussions.
 
-## Required participation and presentation
+### Lab:
+During the lab sessions we work together on small examples that help understand the lecture content. 
+If you cannot participate in lab sessions, you have to complete the notebook and show your solution to the lecturer.
 
-Some active participation in the course is required.
+### Discussions:
+In the discussion sessions we discuss different applications and use cases.
 You should prepare for the discussion sessions by doing some reading and research and actively participate in the discussion.
-People who do not participate in the discussion will have to do a presentation of a research paper towards the end of the semester.
+People who do not participate in discussions will have to do a presentation of a use case, based on a review paper, towards the end of the semester.
+
+## Exam info
+The exam is an oral exam covering most topics from lectures and discussions.
+You have to complete the lab notebooks and either participate in discussion or do a presentation to get to go to the exam.
