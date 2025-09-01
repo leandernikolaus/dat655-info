@@ -16,7 +16,7 @@ Updated slides will be published after lectures.
 - [Script](../script.pdf) Chapter 3
 
 ## Week 36 Lecture 3
-- [Slides](blockchain3transactions&attacks.pdf)
+- [Slides](blockchain3utxo.pdf)
 - [Notebook Transactions](../notebooks/lecture2_tx.ipynb)
 - [Notebook Attacks](../notebooks/lecture5_Attacks.ipynb)
 - [Script](../script.pdf) Chapter 2, 3.5 and 3.6
