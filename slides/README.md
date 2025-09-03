@@ -21,7 +21,7 @@ Updated slides will be published after lectures.
 - [Notebook Attacks](../notebooks/lecture5_Attacks.ipynb)
 - [Script](../script.pdf) Chapter 2, 3.5 and 3.6
 
-## Week 37 No lecture
+## Week 37 TBA
 
 ## Week 38 Application discussion
 - [Slides](./blockchain-application.pdf)
