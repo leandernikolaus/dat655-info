@@ -30,12 +30,12 @@ You can find here:
 | 34 | Leander  | Intro and basic | Lab (Notebook) |
 | 35 | Leander  | Proof of Work | Lab (Notebook) |
 | 36 | Leander  | Accounts and UTXO | Lab (Notebook) |
-| 37 | Leander  | TBA | Lab (Notebook) |
+| 37 | Leander  | PoS | Lab (Notebook) |
 | 38 | Leander  | Applications | Discussion (Applications) |
 | 39 | Leander  | To PoS and Committees | Lab (Notebook) |
 | 40 | Leander  | Ethereum | Discussion (Decentralization) |
 | 41 | Leander  | SmartContracts (security) | Solidity |
-| 42 | Leander  | TBA | Solidity and tokens |
+| 42 | Leander  | Blockchain in Oil&Gas | Solidity and tokens |
 | 43 | Leander  | Layer 2 | Discussion (Layer 2 applications) |
 | 44 | Leander  | Privacy in Blockchain | Discussion (Privacy pro and con) |
 | 45 | Leander  | DePIN & DID | Discussion (Token applications) |
