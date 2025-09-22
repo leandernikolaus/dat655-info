@@ -32,7 +32,7 @@ You can find here:
 | 36 | Leander  | Accounts and UTXO | Lab (Notebook) |
 | 37 | Leander  | PoS | Lab (Notebook) |
 | 38 | Leander  | Applications | Discussion (Applications) |
-| 39 | Leander  | To PoS and Committees | Lab (Notebook) |
+| 39 | Leander  | Ethereum | Lab (Notebook) |
 | 40 | Leander  | Ethereum | Discussion (Decentralization) |
 | 41 | Leander  | SmartContracts (security) | Solidity |
 | 42 | Leander  | Blockchain in Oil&Gas | Solidity and tokens |

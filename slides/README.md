@@ -29,16 +29,13 @@ Updated slides will be published after lectures.
 ## Week 38 Application discussion
 - [Slides](./blockchain-application.pdf)
 
-## Week 39 Committies
-- [Slides](./blockchain4pos.pdf)
-- [Script](../script.pdf) Chapter 4.2, 5.3
-- ([Script](../script.pdf) Chapter 9)
-
-## Week 40 Ethereum
+## Week 39 Ethereum
 - [Slides](./blockchain-ethereum.pdf)
 - [Script](../script.pdf) Chapter 8
 - ([Trees in paper](https://arxiv.org/pdf/2207.02264) Section IV.B part 6))
 - ([Eth2 consensus](https://eth2book.info/capella/part2/consensus/))
+
+## Week 40 
 - Decentralization discussion: 
   - Task: Ask your favourite AI Chatbot: 
     - *How decentralized is Ethereum (Bitcoin)?*
