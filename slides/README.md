@@ -35,6 +35,9 @@ Updated slides will be published after lectures.
 - ([Trees in paper](https://arxiv.org/pdf/2207.02264) Section IV.B part 6))
 - ([Eth2 consensus](https://eth2book.info/capella/part2/consensus/))
 
+In this weeks lab we will look at:
+- [Notebook PoS](../notebooks/lecture6_PoS.ipynb)
+
 ## Week 40 
 - Decentralization discussion: 
   - Task: Ask your favourite AI Chatbot: 
