@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.4.18;
+pragma solidity ^0.8.30;
 
 /* 
 Exercise 1: Implementing a contract!
 Below is a simple contract for keeping balances and transfer the credits. 
-1- Implement the constructor (Token_native), transfer and balanceOf functions. 
+1- Implement the constructor, transfer and balanceOf functions. 
 2- Deploy the contract and play around with it. Check that everything works. 
 */
 contract Token_naive {
@@ -13,7 +13,7 @@ contract Token_naive {
   uint[] public balances;
   uint public totalSupply;
 
-  function Token_naive(uint _initialSupply) public
+  constructor(uint _initialSupply) 
   {
     // The constructor receives the _initialSupply that determines the money of the owner. 
     // Use msg.sender for the address of whoever that has called the function (owner). 
@@ -44,7 +44,7 @@ Exercise 2: Loop is bad!
 /* 
 Exercise 3: Avoiding loops!
 Below is the same contract that uses mapping instead of arrays to avoid loops. 
-1- Implement the constructor (Token), transfer and balanceOf functions. 
+1- Implement the constructor, transfer and balanceOf functions. 
 2- Deploy the contract and play around with it. Check that everything works.
 */
 
@@ -54,7 +54,7 @@ contract Token {
   uint public totalSupply;
   address public owner;
 
-  function Token(uint _initialSupply) public 
+  constructor(uint _initialSupply) 
   {
     // The constructor receives the _initialSupply that determines the money of the owner. 
     // Use msg.sender for the address of whoever that has called the function (owner). 
