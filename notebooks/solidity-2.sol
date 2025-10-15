@@ -62,7 +62,6 @@ Below is a simple contract for storing and comparing hashes.
 1- Deploy the contract, then call storeHash with strings of varrying sizes. How much gas is needed?
 2- Call the compare hash function. Observe and compare the gas costs with different strings.
 3- Is it cheap to compute hashes on chain? 
-4- Call concatenateStrings to concatenate two strings together. How expensive is it? 
 */
 
 contract StringHashStorage {
@@ -79,8 +78,5 @@ contract StringHashStorage {
         //Calculate hash of _input and compare it with storedHash. 
     }
 
-    function concatenateStrings(string memory _string1, string memory _string2) public pure returns (string memory) {
-        return string(abi.encodePacked(_string1, _string2));
-    }
 }
 

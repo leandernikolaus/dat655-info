@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.4.18;
+pragma solidity ^0.8.30;
 
 /* 
 Exercise 1: Is require, required?
@@ -16,9 +16,8 @@ Exercise 2: self destruction!
 
 /* 
 Exercise 3: underflow!
-1- Try calling the transfer function for a account with 0 balance in the system, to transfer some amount to another account.
+1- Try calling the transferunder function for a account with 0 balance in the system, to transfer some amount to another account.
 2- What happens? Why?
-3- Can you fix the problem? 
 */
 
 contract Token {
@@ -27,27 +26,35 @@ contract Token {
   uint public totalSupply;
   address public owner;
 
-  function Token(uint _initialSupply) public {
-    balances[msg.sender] = totalSupply = _initialSupply;
+  constructor(uint _initialSupply) {
+    balances[msg.sender] = _initialSupply;
+    totalSupply = _initialSupply;
     owner = msg.sender;
   }
 
   function transfer(address _to, uint _value) public returns (bool) {
-    require(balances[msg.sender] - _value >= 0);
+    require(balances[msg.sender] >= _value, "Insufficient balance");
     balances[msg.sender] -= _value;
     balances[_to] += _value;
     return true;
   }
 
   function transfer2(address _to, uint _value) public returns (bool) {
-    if(balances[msg.sender] - _value >= 0)
-    {
+    if (balances[msg.sender] >= _value) {
       balances[msg.sender] -= _value;
       balances[_to] += _value;
       return true;
+    } else {
+      return false;
     }
-    else 
-    {
+  }
+
+  function transferunder(address _to, uint _value) public returns (bool) {
+    if (balances[msg.sender] - _value >=0 ) {
+      balances[msg.sender] -= _value;
+      balances[_to] += _value;
+      return true;
+    } else {
       return false;
     }
   }
@@ -56,8 +63,8 @@ contract Token {
     return balances[_owner];
   }
 
-  function close(address _to) public 
-  { 
-    selfdestruct(_to); 
+  function close(address _to) public {
+    require(msg.sender == owner, "Only owner can close");
+    selfdestruct(payable(_to));
   }
 }
