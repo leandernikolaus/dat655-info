@@ -52,7 +52,7 @@ In this weeks lab we will look at:
 - Reading https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
 
 # Week 44 Advanced smart contracts
-- [Slides](blockchain-layer2.pdf)
+- [Slides](blockchain-tokens&layer2.pdf)
 - [Script](../script.pdf) Chapter 8.3 and 8.4
 
 # Week 45 Privacy
