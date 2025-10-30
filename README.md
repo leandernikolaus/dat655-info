@@ -38,8 +38,8 @@ You can find here:
 | 42 | Leander  | Blockchain in Oil&Gas | Solidity and tokens |
 | 43 | Leander  | Layer 2 | no discussion or lab |
 | 44 | Leander  | Privacy in Blockchain | Discussion (Tokens) |
-| 45 | Leander  | DePIN & DID | Discussion ( ) |
-| 46 | Leander  | Presentations | Presentations |
+| 45 | Leander  | | |
+| 46 | Leander  | DePIN and summary |  |
 
 ## Obligatory participation
 

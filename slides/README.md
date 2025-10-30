@@ -59,5 +59,5 @@ In this weeks lab we will look at:
 - [Slides](blockchain-privacy.pdf)
 - [Token discussion](./tokendiscussion.md)
 
-# Week 46 SSI and Depin
+# Week 48 Depin
 - [Slides](./blockchain-SSI+depin.pdf)
