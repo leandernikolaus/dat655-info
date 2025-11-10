@@ -60,4 +60,5 @@ In this weeks lab we will look at:
 - [Token discussion](./tokendiscussion.md)
 
 # Week 48 Depin
-- [Slides](./blockchain-SSI+depin.pdf)
+- [Slides](./blockchain-depin.pdf)
+- [Exam](../exam2024.pdf)
