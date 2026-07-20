@@ -13,8 +13,8 @@ You can find here:
 
 | Day | Time | | Room |
 |----|------|---|------|
-| Monday | 12:15 - 14:00 | Lecture | KE E-166 |
-| Wednesday  | 10:15 - 12:00 | Lab/Discussion | KE A-205 |
+| Monday | 10:15 - 12:00 | Lecture | EAL H-211 |
+| Wednesday  | 12:15 - 14:00 | Lab/Discussion | KE A-203 |
 
 ## Lectures
 
@@ -25,34 +25,100 @@ You can find here:
 * Additional material is linked [here](resources.md).
 
 
-| Week | Lecture | Topic | Lab/Discussion |
-|-----|-----------|-------|----------|
-| 34 | Leander  | Intro and basic | Lab (Notebook) |
-| 35 | Leander  | Proof of Work | Lab (Notebook) |
-| 36 | Leander  | Accounts and UTXO | Lab (Notebook) |
-| 37 | Leander  | PoS | Lab (Notebook) |
-| 38 | Leander  | Applications | Discussion (Applications) |
-| 39 | Leander  | Ethereum | Lab (Notebook) |
-| 40 | Leander  | Ethereum | Discussion (Decentralization) |
-| 41 | Leander  | SmartContracts (security) | Solidity |
-| 42 | Leander  | Blockchain in Oil&Gas | Solidity and tokens |
-| 43 | Leander  | Layer 2 | no discussion or lab |
-| 44 | Leander  | Privacy in Blockchain | Discussion (Tokens) |
-| 45 | Leander  | | |
-| 46 | Leander  | DePIN and summary |  |
+## Week 35 Lecture 1
+*Intro and Hash based data structure*
+- [Info slides](slides/info.pdf)
+- [Slides](slides/blockchain1.pdf)
+- [Script](./script.pdf) Chapter 1 
+
+### Lab
+- [Notebook](./notebooks/hashes.ipynb)
+
+## Week 36 Lecture 2
+*PoW*
+- [Slides](slides/blockchain2.pdf)
+- [Script](./script.pdf) Chapter 3
+
+### Lab
+- [Notebook PoW](./notebooks/PoW.ipynb)
+- [Notebook Forks](./notebooks/Forks.ipynb)
+
+## Week 37 Lecture 3
+*Transactions*
+- [Slides](slides/blockchain3utxo.pdf)
+- [Script](./script.pdf) Chapter 2, 3.5 and 3.6
+
+### Lab
+- [Notebook Transactions](./notebooks/tx.ipynb)
+
+## Week 38 Extra lab&Application discussion
+
+### Monday extra lab
+- [Notebook Attacks](../notebooks/Attacks.ipynb)
+
+### Tuesday Discussion
+- [Slides](slides/blockchain-application.pdf)
+
+## Week 39 Proof of Stake
+*Proof of Stake*
+- [Slides](slides/blockchain4pos.pdf)
+- [Script](./script.pdf) Chapter 4.2, 5.3
+- ([Script](./script.pdf) Chapter 9)
+
+### Lab
+- [Notebook PoS](./notebooks/lecture6_PoS.ipynb)
+
+## Week 40 Ethereum
+*Ethereum*
+- [Slides](slides/blockchain-ethereum.pdf)
+- [Script](./script.pdf) Chapter 8
+- ([Trees in paper](https://arxiv.org/pdf/2207.02264) Section IV.B part 6))
+- ([Eth2 consensus](https://eth2book.info/capella/part2/consensus/))
+
+### Lab: catchup
+
+## Week 41 
+*Decentralization*
+
+### Tuesday Discussion
+*Decentralization*
+
+## Week 42 Smart contracts
+
+
+## Week 43 Smart contract security
+- [Slides](slides/blockchain-smartContractSecurity.pdf)
+- [Example contracts](./solidity/security/contracts)
+- Reading https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+
+## Week 44 Advanced smart contracts
+- [Slides](slides/blockchain-tokens&layer2.pdf)
+- [Script](./script.pdf) Chapter 8.3 and 8.4
+
+### Tuesday Discussion
+*Tokens*
+- [Token discussion](slides/tokendiscussion.md)
+
+## Week 45 Privat transactions
+- [Slides](slides/blockchain-privacy.pdf)
+
+## Week 46 Repetition and presentations
 
 ## Obligatory participation
 
-The wednesday timeslot is used for Lab or discussions.
+The tuesday timeslot is used for Lab or discussions.
 
 ### Lab:
 During the lab sessions we work together on small examples that help understand the lecture content. 
-If you cannot participate in lab sessions, you have to complete the notebook and show your solution to the lecturer.
+If you cannot participate in lab sessions, you have to complete the notebooks and show your solution to the lecturer.
+All notebooks have to be completed by week 41.
 
 ### Discussions:
+During week 38, 41, and 44 we will do a discussion on Tuesday.
 In the discussion sessions we discuss different applications and use cases.
 You should prepare for the discussion sessions by doing some reading and research and actively participate in the discussion.
-People who do not participate in discussions will have to do a presentation of a use case, based on a review paper, towards the end of the semester.
+Preparation will be announced on canvas.
+People who do not participate discussions will have to do a presentation of a use case, based on a review paper, in week 46.
 
 ## Exam info
 The exam is an oral exam covering most topics from lectures and discussions.
