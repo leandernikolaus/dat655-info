@@ -13,8 +13,8 @@ You can find here:
 
 | Day | Time | | Room |
 |----|------|---|------|
-| Monday | 10:15 - 12:00 | Lecture | EAL H-211 |
-| Wednesday  | 12:15 - 14:00 | Lab/Discussion | KE A-203 |
+| Monday | 10:15 - 12:00 | Lab | EAL H-211 |
+| Tuesday  | 12:15 - 14:00 | Lecture | KE A-203 |
 
 ## Lectures
 
