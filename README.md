@@ -48,6 +48,15 @@ You can find here:
 - [Slides](slides/blockchain3utxo.pdf)
 - [Script](./script.pdf) Chapter 2, 3.5 and 3.6
 
+Here are some resources to cover the content, if you missed the lecture.
+For those that did not see digital signatures in a previous course, I also included an intro to that.
+
+- [Video UTXO](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/resources/lec4-transactions-and-the-utxo-model/)
+- [Video SPV](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/resources/lec6-spv-and-wallet-types/)
+- [Video on digital signature schemes](https://youtu.be/1dCiPcwlZI8?si=7z1JI6FgUzSro3sm)
+
+
+
 ### Lab
 - [Notebook Transactions](./notebooks/tx.ipynb)
 
