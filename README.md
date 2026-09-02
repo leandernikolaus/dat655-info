@@ -58,15 +58,17 @@ For those that did not see digital signatures in a previous course, I also inclu
 
 
 ### Lab
+- [Notebook Attacks](../notebooks/Attacks.ipynb)
 - [Notebook Transactions](./notebooks/tx.ipynb)
 
-## Week 38 Extra lab&Application discussion
+## Week 38 Application discussion
 
-### Monday extra lab
-- [Notebook Attacks](../notebooks/Attacks.ipynb)
+### Monday Discussion
+*Bitcoin uses*
+[Questions and resources](discussion/bitcoin-uses.md)
 
-### Tuesday Discussion
-- [Slides](slides/blockchain-application.pdf)
+### Tuesday No lab
+
 
 ## Week 39 Proof of Stake
 *Proof of Stake*
