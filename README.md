@@ -76,6 +76,22 @@ For those that did not see digital signatures in a previous course, I also inclu
 - [Script](./script.pdf) Chapter 4.2, 5.3
 - ([Script](./script.pdf) Chapter 9)
 
+### Video sources
+*This is a selection of videos from Tim Roughgarden.
+Additional videos from the same [lecture series](https://youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) are good sources.*
+
+
+- [12.3 PoS High level](https://youtu.be/NkiZWHN6Xd0?si=zDH2xV7ryZJ6Zzli)
+- [12.4 Why PoS](https://youtu.be/OVhhBIqvx7Y?si=_C9trsS3Geh3ZewK)
+- [12.5 Staking](https://youtu.be/bEO2WKUOqlM?si=hPiKCqnZdzYC1dyg) 
+- [12.6 PoS is Hard](https://youtu.be/RF-BriKS5WI?si=MVYTtgA3Eo3zkDRX)
+- [12.7 Weighted RR](https://youtu.be/hOQWUN7ZLxg?si=bk-f4mmwdRRBXiNA)
+- [12.8 Ideal random beacon](https://youtu.be/au-pyenGexg?si=pJLkIR6AEv7EFj70)
+- [12.11 Pseudorandomness beacon](https://youtu.be/-niJOGoxwZw?si=JOEI2DmSAGN6CAee)
+- [12.21 Long Range Attacks](https://youtu.be/WRoCc2s3HPk?si=KMnKxBMvoalgJHQI)
+
+Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#some-glossary-that-may-be-useful)
+
 ### Lab
 - [Notebook PoS](./notebooks/lecture6_PoS.ipynb)
 
