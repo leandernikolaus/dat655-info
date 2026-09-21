@@ -92,6 +92,9 @@ Additional videos from the same [lecture series](https://youtube.com/playlist?li
 
 Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#some-glossary-that-may-be-useful)
 
+**OUPS: The following videos from Tim cover the committee aspect of PoS. However, they assume quite some background knowledge. Looking at the slides might be easier.**
+- [PoS & Committees](https://youtu.be/9GIiBOxjqI8?si=mlZ1RvzXAjCeg2MH)
+
 ### Lab
 - [Notebook PoS](./notebooks/lecture6_PoS.ipynb)
 
@@ -101,6 +104,13 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - [Script](./script.pdf) Chapter 8
 - ([Trees in paper](https://arxiv.org/pdf/2207.02264) Section IV.B part 6))
 - ([Eth2 consensus](https://eth2book.info/capella/part2/consensus/))
+
+### Video resources
+- [Ethereum Transactions](https://youtu.be/SfFyeB0FsT8?si=qVPX5xesi5W09bt8)
+- [Gas Fees](https://youtu.be/dmguh81VBQ8?si=-llQ4Rq8GCYX8bzE)
+- [Smart Contract programming intro](https://www.youtube.com/watch?v=eEQ41gD0iC4&list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl&index=10)
+- [Ethereum PoS overview](https://www.youtube.com/live/FqKjWYt6yWk?si=wkqOP7qvUlxRHx0Q&t=2759) start at 46min
+
 
 ### Lab: catchup
 
