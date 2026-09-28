@@ -25,7 +25,7 @@ You can find here:
 * Additional material is linked [here](resources.md).
 
 
-## Week 35 Lecture 1
+## Week 34 Lecture 1
 *Intro and Hash based data structure*
 - [Info slides](slides/info.pdf)
 - [Slides](slides/blockchain1.pdf)
@@ -34,7 +34,7 @@ You can find here:
 ### Lab
 - [Notebook](./notebooks/hashes.ipynb)
 
-## Week 36 Lecture 2
+## Week 35 Lecture 2
 *PoW*
 - [Slides](slides/blockchain2.pdf)
 - [Script](./script.pdf) Chapter 3
@@ -43,7 +43,7 @@ You can find here:
 - [Notebook PoW](./notebooks/PoW.ipynb)
 - [Notebook Forks](./notebooks/Forks.ipynb)
 
-## Week 37 Lecture 3
+## Week 36 Lecture 3
 *Transactions*
 - [Slides](slides/blockchain3utxo.pdf)
 - [Script](./script.pdf) Chapter 2, 3.5 and 3.6
@@ -61,7 +61,7 @@ For those that did not see digital signatures in a previous course, I also inclu
 - [Notebook Attacks](../notebooks/Attacks.ipynb)
 - [Notebook Transactions](./notebooks/tx.ipynb)
 
-## Week 38 Application discussion
+## Week 37 Application discussion
 
 ### Monday Discussion
 *Bitcoin uses*
@@ -70,7 +70,7 @@ For those that did not see digital signatures in a previous course, I also inclu
 ### Tuesday No lab
 
 
-## Week 39 Proof of Stake
+## Week 38 Proof of Stake
 *Proof of Stake*
 - [Slides](slides/blockchain4pos.pdf)
 - [Script](./script.pdf) Chapter 4.2, 5.3
@@ -98,7 +98,7 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 ### Lab
 - [Notebook PoS](./notebooks/lecture6_PoS.ipynb)
 
-## Week 40 Ethereum
+## Week 39 Ethereum
 *Ethereum*
 - [Slides](slides/blockchain-ethereum.pdf)
 - [Script](./script.pdf) Chapter 8
@@ -117,8 +117,18 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - [Solidity smart contract examples](./solidity/examples/)
 - [Lab video](https://youtu.be/qfWIeKIzlZI)
 
-## Week 41 
-*Decentralization*
+## Week 40 Smart contract security
+*Ethereum ctd. and Smart contract security*
+
+- [Slides](slides/blockchain-smartContractSecurity.pdf)
+- [Example contracts](./solidity/security/contracts)
+- Reading https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
+- [Video](https://www.youtube.com/playlist?list=PLTZU4jD-ITjo)
+
+### Tuesday Lab 
+- [Example contracts](./solidity/security/contracts)
+
+## Weel 41 Decentranlization
 
 ### Tuesday Discussion
 *Decentralization*
