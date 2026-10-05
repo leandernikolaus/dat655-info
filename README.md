@@ -129,21 +129,17 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - [Example contracts](./solidity/security/contracts)
 
 ## Weel 41 Decentranlization
+- [Slides](slides/blockchain-tokens&layer2.pdf)
+- [Script](./script.pdf) Chapter 8.3 and 8.4
 
 ### Tuesday Discussion
 *Decentralization*
 
-## Week 42 Smart contracts
+## Week 42 TBA
 
+## Week 43 TBA
 
-## Week 43 Smart contract security
-- [Slides](slides/blockchain-smartContractSecurity.pdf)
-- [Example contracts](./solidity/security/contracts)
-- Reading https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
-
-## Week 44 Advanced smart contracts
-- [Slides](slides/blockchain-tokens&layer2.pdf)
-- [Script](./script.pdf) Chapter 8.3 and 8.4
+## Week 44 Tokens
 
 ### Tuesday Discussion
 *Tokens*
