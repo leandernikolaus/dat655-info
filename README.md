@@ -126,11 +126,16 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - [Video](https://www.youtube.com/playlist?list=PLTZU4jD-ITjo)
 
 ### Tuesday Lab 
-- [Example contracts](./solidity/security/contracts)
+- [Reentrancy example](./solidity/reentrancy/)
+- [Forcing money example](./solidity/forcingmoney/)
+- [Video](https://youtu.be/HRBjK8W1-hA)
 
 ## Weel 41 Decentranlization
+
+### Lecture Advanced smart contracts
 - [Slides](slides/blockchain-tokens&layer2.pdf)
 - [Script](./script.pdf) Chapter 8.3 and 8.4
+- [Mockup Rollup](./solidity/examples/mockRollup.sol)
 
 ### Tuesday Discussion
 *Decentralization*
