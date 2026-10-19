@@ -125,6 +125,9 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - Reading https://github.com/ethereumbook/ethereumbook/blob/develop/09smart-contracts-security.asciidoc
 - [Video](https://www.youtube.com/playlist?list=PLTZU4jD-ITjo)
 
+### External resources:
+- [Execution layer lecture Boneh](https://youtu.be/7sxBjSfmROc?si=quqrg-c3uB-rLXQb)
+
 ### Tuesday Lab 
 - [Reentrancy example](./solidity/reentrancy/)
 - [Forcing money example](./solidity/forcingmoney/)
@@ -136,13 +139,20 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 - [Slides](slides/blockchain-tokens&layer2.pdf)
 - [Script](./script.pdf) Chapter 8.3 and 8.4
 - [Mockup Rollup](./solidity/examples/mockRollup.sol)
+- [Videos](https://www.youtube.com/playlist?list=PLONWoV3tpWxA)
 
 ### Tuesday Discussion
 *Decentralization*
 
-## Week 42 TBA
+## Week 42 Cancelled
 
-## Week 43 TBA
+## Week 43 Use cases
+
+### Finance adoption
+- [Slides](./slides/blockchain-finance.pdf)
+
+
+### Tuesday Cancelled
 
 ## Week 44 Tokens
 
