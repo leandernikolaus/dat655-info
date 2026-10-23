@@ -138,6 +138,7 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 ### Lecture Advanced smart contracts
 - [Slides](slides/blockchain-tokens&layer2.pdf)
 - [Script](./script.pdf) Chapter 8.3 and 8.4
+- [Rollups: Additional reading](https://ieeexplore.ieee.org/abstract/document/9862815)
 - [Mockup Rollup](./solidity/examples/mockRollup.sol)
 - [Videos](https://www.youtube.com/playlist?list=PLONWoV3tpWxA)
 
@@ -150,6 +151,7 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 
 ### Finance adoption
 - [Slides](./slides/blockchain-finance.pdf)
+- [Notes](./slides/speaker-notes-blockchain-finance.md)
 
 
 ### Tuesday Cancelled
