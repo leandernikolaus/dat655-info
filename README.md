@@ -158,6 +158,10 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 
 ## Week 44 Tokens
 
+### Lecture Decentralized exchanges
+- Watch the following [video lecture](https://youtu.be/LIkUv_n6Qdo?si=AXz0MCiMNoYw3-1l)
+- [Takeaways](./slides/blockchain-dex-takeaway.md)
+
 ### Tuesday Discussion
 *Tokens*
 - [Token discussion](slides/tokendiscussion.md)
