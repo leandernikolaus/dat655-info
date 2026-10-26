@@ -22,8 +22,6 @@ At the time of writing, this is the largest DeFi hack of 2026 and the second-lar
 
 On 1 April the pre-signed transactions were executed. They listed CVT as valid collateral and raised withdrawal limits. CVT was then deposited at its inflated price, and 31 withdrawals over about 12 minutes drained USDC, JLP and other assets. Most of the funds were bridged to Ethereum within hours.
 
-**Key lesson:** There was no smart-contract bug. Compromised people and weak governance were enough to abuse legitimate protocol features.
-
 ### Sources
 
 - [TRM Labs – North Korean hackers attack Drift Protocol in $285M heist](https://www.trmlabs.com/resources/blog/north-korean-hackers-attack-drift-protocol-in-285-million-heist)
@@ -32,33 +30,7 @@ On 1 April the pre-signed transactions were executed. They listed CVT as valid c
 
 ---
 
-## 2. Bybit (centralized exchange), 21 February 2025, about $1.5B
-
-This is the largest crypto theft on record.
-
-### Attack vectors
-
-| Vector | Description |
-|---|---|
-| **Social engineering / supply chain** | The attackers compromised a developer machine at Safe{Wallet}, a third-party multisig wallet provider. |
-| **Cloud infrastructure compromise** | From that machine they reached Safe's AWS infrastructure. |
-| **Front-end code injection** | Malicious JavaScript was injected into the Safe web interface and set to activate only for Bybit's cold-wallet address. |
-| **Blind signing** | Bybit's multisig signers, using hardware wallets, approved what looked like a routine transfer. It was actually a `delegatecall` that replaced the wallet's implementation contract with one the attacker controlled. |
-| **Rapid laundering** | The attackers emptied the wallet and laundered the funds quickly across chains and swap services. |
-
-**Key lesson:** Hardware wallets and multisig don't protect against a compromised signing interface. Signers have to be able to check independently what they are actually signing.
-
-### Sources
-
-- [SlowMist – Bybit's $1.5B theft: Safe{Wallet} front-end code tampered](https://slowmist.medium.com/bybits-1-5-billion-theft-unveiled-safe-wallet-front-end-code-tampered-84b78f0fa9c2)
-- [Cointelegraph – Safe{Wallet} releases Bybit hack post-mortem](https://cointelegraph.com/news/safe-wallet-releases-bybit-hack-post-mortem)
-- [Cointelegraph – Safe post-mortem update](https://cointelegraph.com/news/safe-releases-post-mortem-update-cz-criticizes-response)
-- [Decrypt – What caused Bybit's Ethereum hack? New details revealed](https://decrypt.co/309018/what-caused-bybit-ethereum-hack-new-details)
-- [Four Pillars – Safe / Bybit hack research](https://research.4pillars.io/en/research/safe-bybit-hack)
-
----
-
-## 3. KelpDAO rsETH and LayerZero bridge, 18 April 2026, about $292M
+## 2. KelpDAO rsETH and LayerZero bridge, 18 April 2026, about $292M
 
 ### Attack vectors
 
@@ -87,21 +59,3 @@ KelpDAO paused its contracts after 46 minutes, and Aave's guardian froze the rsE
 - [KuCoin – How the KelpDAO exploit created $177M bad debt on Aave](https://www.kucoin.com/blog/my-kelpdao-rseth-exploit-how-292m-layerzero-bridge-attack-created-177m-bad-debt-on-aave)
 
 ---
-
-## Comparison
-
-| | Drift | Bybit | KelpDAO / LayerZero |
-|---|---|---|---|
-| Date | April 2026 | February 2025 | April 2026 |
-| Loss | about $285M | about $1.5B | about $292M |
-| Social engineering | Yes (six months) | Yes (third-party developer) | Disputed |
-| Key / signer compromise | Signers tricked into pre-signing | Signers tricked by a manipulated interface | No (verifier keys intact) |
-| Smart-contract bug | No | No (legitimate `delegatecall` misused) | No (configuration weakness) |
-| Infrastructure attack | Contributor devices | Developer machine and AWS | RPC poisoning and DDoS |
-| Economic manipulation | Fake collateral token, wash trading | – | Borrowing against unbacked collateral |
-| Attribution | DPRK (preliminary) | DPRK / Lazarus (confirmed by FBI) | DPRK / TraderTraitor (preliminary) |
-
-### Further reading (H1 2026 overviews)
-
-- [The Crypto Times – Top 10 crypto hacks of H1 2026](https://www.cryptotimes.io/insights/top-10-crypto-hacks-of-h1-2026-how-hackers-drained-972-million-in-six-months/)
-- [Sherlock – Web3 Security Report Q1 2026](https://sherlock.xyz/post/the-sherlock-web3-security-report-q1-2026-every-major-hack-exploit-and-trends)
