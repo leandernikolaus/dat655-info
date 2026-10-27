@@ -165,6 +165,7 @@ Some glossary that may be useful can be found [here.](./slides/PoS-videos.md#som
 ### Tuesday Discussion
 *Tokens*
 - [Token discussion](slides/tokendiscussion.md)
+- [Attack examples](slides/crypto_multi_vector_attacks.md)
 
 ## Week 45 Privat transactions
 - [Slides](slides/blockchain-privacy.pdf)
